@@ -1,4 +1,4 @@
-# Instacar Grocery Basket Analysis - Python   <img src="http://media-s3-us-east-1.ceros.com/pitchbook/images/2018/06/21/cfd01d5d055e25679526fe677d08b23b/instacart-logo.png" width="300" height="50">
+# Instacart Grocery Basket Analysis - Python   <img src="http://media-s3-us-east-1.ceros.com/pitchbook/images/2018/06/21/cfd01d5d055e25679526fe677d08b23b/instacart-logo.png" width="300" height="50">
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they wanted to uncover more information about their sales patterns. The Instacart stakeholders were most interested in the variety of customers in their database along with their purchasing behaviors. They wanted to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products.
 
 The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.
