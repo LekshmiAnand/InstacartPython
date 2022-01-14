@@ -1,4 +1,5 @@
 # InstacartPython   ![This is an image](http://media-s3-us-east-1.ceros.com/pitchbook/images/2018/06/21/cfd01d5d055e25679526fe677d08b23b/instacart-logo.png?v=4&s=2)
+<img src="http://media-s3-us-east-1.ceros.com/pitchbook/images/2018/06/21/cfd01d5d055e25679526fe677d08b23b/instacart-logo.png" width="100" height="100">
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they wanted to uncover more information about their sales patterns. The Instacart stakeholders were most interested in the variety of customers in their database along with their purchasing behaviors. They wanted to target different customers with applicable marketing campaigns to see whether they have an effect on the sale of their products.
 
 The project started by cleaning, filtering and sorting the data and then moved toward answering key questions.
